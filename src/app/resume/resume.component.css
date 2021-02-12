@@ -1,0 +1,39 @@
+.mat-toolbar {
+    height: 100px;
+}
+
+.mat-expansion-panel {
+    margin: 10px;
+}
+
+.example-headers-align .mat-expansion-panel-header-title,
+.example-headers-align .mat-expansion-panel-header-description {
+  flex-basis: 0;
+}
+
+.example-headers-align .mat-expansion-panel-header-description {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.example-headers-align .mat-form-field + .mat-form-field {
+  margin-left: 8px;
+}
+
+.main {
+    margin-left: 10%;
+    margin-right: 10px;
+}
+
+.mat-expansion-panel-header {
+    background-color:rgb(170, 218, 218);
+}
+
+.maticon {
+    float: right;
+    margin: auto;
+}
+
+img {
+    border-radius: 50%;
+}
